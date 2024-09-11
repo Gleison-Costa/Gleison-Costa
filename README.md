@@ -1,8 +1,6 @@
 ## Olá, eu sou o Gleison Costa, um estudante de ciência da computação engajado com desenvolvimento e tecnologia!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gleison-Costa&show_icons=true&theme=dark) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GleisonCosta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Costa&bg_color=#1C1C1C&layout=compact)
 
 ## Tecnologias estudadas até o momento:
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
